@@ -1,17 +1,7 @@
 transaction_id,city,transaction_date,card_type,exp_type,gender,amount
 1,Delhi,29-Oct-14,Gold,Bills,F,82475
 2,Greater Mumbai,22-Aug-14,Platinum,Bills,F,32555
-3,Bengaluru,27-Aug-14,Silver,Bills,F,101738
-4,Greater Mumbai,12-Apr-14,Signature,Bills,F,123424
-5,Bengaluru,5-May-15,Gold,Bills,F,171574
-6,Delhi,8-Sep-14,Silver,Bills,F,100036
-7,Delhi,24-Feb-15,Gold,Bills,F,143250
-8,Greater Mumbai,26-Jun-14,Platinum,Bills,F,150980
-9,Delhi,28-Mar-14,Silver,Bills,F,192247
-10,Delhi,1-Sep-14,Platinum,Bills,F,67932
-11,Delhi,22-Jun-14,Platinum,Bills,F,280061
-12,Greater Mumbai,7-Dec-13,Signature,Bills,F,278036
-13,Greater Mumbai,7-Aug-14,Gold,Bills,F,19226
+
 14,Delhi,27-Apr-14,Signature,Bills,F,254359
 15,Greater Mumbai,15-Aug-14,Signature,Bills,F,302834
 16,Greater Mumbai,28-Nov-14,Platinum,Bills,F,647116
